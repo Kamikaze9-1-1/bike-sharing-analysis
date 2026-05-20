@@ -1,1 +1,1 @@
-URL Dashboard Streamlit: [isi setelah deploy ke Streamlit Cloud]
+URL Dashboard Streamlit: https://bike-sharing-analysis-82xhysfwsjuy3mpz9mf2db.streamlit.app/
